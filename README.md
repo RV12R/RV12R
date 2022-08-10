@@ -1,4 +1,4 @@
-### Hi there I'm [Rahul AV](https://linktr.ee/imrv) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hi there I'm [Rahul AV](https://linktr.ee/imrv) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 - 💻 A full stack-developer currently working with Web3.0, I like to combine great designs, animations and fast responses on my builds. My passion for developing lies with dreaming up ideas and making them come true with elegant interfaces. 
 
 ### Have a ride through [My Space](https://space-ten-beta.vercel.app/)🚀
