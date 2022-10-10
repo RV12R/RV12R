@@ -1,7 +1,7 @@
 ## Hi there I'm [Rahul AV](https://linktr.ee/imrv) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
  
 
-### Have a ride through [My Space](https://space-ten-beta.vercel.app/)🚀
+### Have a ride through [My Space](https://rvspace.vercel.app/)🚀
 
 ### GitHub Status
 <table align="center">
