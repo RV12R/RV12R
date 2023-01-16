@@ -1,7 +1,7 @@
-## Hi there I'm [RV](https://rvspace.vercel.app/) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi there I'm [RV](https://rvspace.vercel.app/) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
  
 
-<table align="center">
+<!-- <table align="center">
   <tr>
     <td align="center">
       <img alt="Contributions" src="https://github-readme-stats.vercel.app/api?username=RV12R&show_icons=true&theme=github_dark&hide_border=true" width="400px" height="180px" >
@@ -18,9 +18,9 @@
         <img src="https://activity-graph.herokuapp.com/graph?username=RV12R&theme=react-dark" width="400px" height="180px">
       </td>
   </tr>
-</table>
+</table> -->
 
-## Connect with me:
+### Connect with me:
 
 <p align = "center">
 
