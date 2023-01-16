@@ -3,20 +3,20 @@
 
 <table align="center">
   <tr>
-<!--     <td align="center">
+    <td align="center">
       <img alt="Contributions" src="https://github-readme-stats.vercel.app/api?username=RV12R&show_icons=true&theme=github_dark&hide_border=true" width="400px" height="180px" >
-    </td> -->
+    </td>
     <td align="center">
         <img src ="https://github-readme-streak-stats.herokuapp.com?user=RV12R&theme=github_dark&hide_border=true" width="400px" height="180px">
     </td>
-<!--   </tr>
-    <tr> -->
+  </tr>
+    <tr>
     <td align="center">
         <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=RV12R&layout=compact&hide_border=true&theme=github_dark&langs_count=10&hide=jupyter%20notebook,tex,php" width="400px" height="180px">
     </td>
-<!--       <td>
+      <td>
         <img src="https://activity-graph.herokuapp.com/graph?username=RV12R&theme=react-dark" width="400px" height="180px">
-      </td> -->
+      </td>
   </tr>
 </table>
 
